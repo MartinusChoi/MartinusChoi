@@ -14,7 +14,9 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)]()
+[![Plotly](https://img.shields.io/badge/Plotly-150458?style=flat-square&logo=Plotly&logoColor=white)]()
+[![pandas](https://img.shields.io/badge/pandas-3F4F75?style=flat-square&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)]()
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)]()
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)]()
