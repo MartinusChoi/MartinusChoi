@@ -28,7 +28,6 @@
   [![PyTorch Lightning](https://img.shields.io/badge/PyTorchLightning-792EE5?style=flat-square&logo=PyTorchLightning&logoColor=white)](https://github.com/MartinusChoi/ResNet_Pytorch)
   [![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/MartinusChoi/Kaggle-NoteBook-Study)
 
----
     
   <h2> 👀 I’m interested in 👀 </h2>
 
@@ -37,8 +36,6 @@
   **Machine Vision**
 
   **Natural Language Processing**
-    
----
 
   <h2> 📚 My History 📚 </h2>
   
@@ -46,7 +43,9 @@
   
 🏷 Department of Intelligence Mechatronics Engineering
     
-🏷 Sejong Kaggle Challengers (2021.03~)
+🏷 Sejong Kaggle Challengers 2nd (2021.03~2021.07) - [Repo](https://github.com/Sejong-Kaggle-Challengers-2nd/Choi_YoungMin) | [Sejong Kaggle Chellengers 2nd](https://github.com/Sejong-Kaggle-Challengers-2nd)
+ 
+🏷 Sejong Kaggle Challengers (2021.09~) - [Repo](https://github.com/MartinusChoi/Kaggle-NoteBook-Study) | [Sejong Kaggle Chellengers](https://github.com/Sejong-Kaggle-Challengers/kagglestudy)
    
    <h3> Awards </h3>
    
@@ -55,15 +54,11 @@
 🏆 11th Sejong Creative Design Competition **participation prize** (2021.06)
 
     
-
----
-    
   <h2>📫 How to reach me 📫 </h2>
 
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](martinus.choi@gmail.com)
   [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](martinus99@naver.com)
 
----
     
   <h2> ✋ Todays ✋</h2>
 
