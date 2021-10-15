@@ -45,7 +45,13 @@
     
 🏷 Sejong Kaggle Challengers 2nd (2021.03~2021.07) - [Repo](https://github.com/Sejong-Kaggle-Challengers-2nd/Choi_YoungMin) | [Sejong Kaggle Chellengers 2nd](https://github.com/Sejong-Kaggle-Challengers-2nd)
  
-🏷 Sejong Kaggle Challengers (2021.09~) - [Repo](https://github.com/MartinusChoi/Kaggle-NoteBook-Study) | [Sejong Kaggle Chellengers](https://github.com/Sejong-Kaggle-Challengers/kagglestudy)
+🏷 Sejong Kaggle Challengers (2021.09~2021.12) - [Repo](https://github.com/MartinusChoi/Kaggle-NoteBook-Study) | [Sejong Kaggle Chellengers](https://github.com/Sejong-Kaggle-Challengers/kagglestudy)
+
+🏷 Rearch Assistance of Labtary in Department of English Linguistics and Literature (2021.09~2021.12)
+   
+   <h3> Project </h3>
+ 
+🗂 Text Mining Project (Research Assistance Project) - [Repo](https://github.com/MartinusChoi/Text-Mining-Project)
    
    <h3> Awards </h3>
    
