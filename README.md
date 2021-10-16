@@ -50,8 +50,12 @@
 🏷 Rearch Assistance of Labtary in Department of English Linguistics and Literature (2021.09~2021.12)
    
    <h3> Project </h3>
- 
-🗂 Text Mining Project (Research Assistance Project) - [Repo](https://github.com/MartinusChoi/Text-Mining-Project)
+
+🗂 AI Exam Supervisor Project (7th Sejong SW-AI-Competition) (2021.03~2021.06) - [Organization](https://github.com/capstone-pcy) 
+    
+🗂 Chatbot Project (Sejong Creative Study) (2021.09~2021.12) - [Organization](https://github.com/2021-2-Creative-Study) 
+
+🗂 Text Mining Project (Research Assistance Project) (2021.09~2021.12) - [Repo](https://github.com/MartinusChoi/Text-Mining-Project)
    
    <h3> Awards </h3>
    
