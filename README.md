@@ -51,7 +51,7 @@
    
    <h3> Project </h3>
 
-🗂 AI Exam Supervisor Project (7th Sejong SW-AI-Competition) (2021.03~2021.06) - [Organization](https://github.com/capstone-pcy) 
+🗂 AI Exam Supervisor Project (11th Sejong Creative Design Competition) (2021.03~2021.06) - [Organization](https://github.com/capstone-pcy) 
     
 🗂 Chatbot Project (Sejong Creative Study) (2021.09~2021.12) - [Organization](https://github.com/2021-2-Creative-Study) 
 
