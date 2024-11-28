@@ -14,11 +14,6 @@
   <h3> 💻 And also... 💻 </h3>
     
   [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)](https://github.com/MartinusChoi/NodeJS)
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://github.com/MartinusChoi/NodeJS)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/MartinusChoi/NodeJS)
-
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/MartinusChoi/NodeJS)
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
   [![pandas](https://img.shields.io/badge/pandas-3F4F75?style=flat-square&logo=pandas&logoColor=white)]()
   [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)]()
@@ -26,7 +21,15 @@
 
   [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://github.com/MartinusChoi/ResNet_Pytorch)
   [![PyTorch Lightning](https://img.shields.io/badge/PyTorchLightning-792EE5?style=flat-square&logo=PyTorchLightning&logoColor=white)](https://github.com/MartinusChoi/ResNet_Pytorch)
+  ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
   [![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/MartinusChoi/Kaggle-NoteBook-Study)
+  [![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/MartinusChoi/Kaggle-NoteBook-Study)
+
+  ![Langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white)
+  ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
     
   <h2> 👀 I’m interested in 👀 </h2>
