@@ -59,6 +59,12 @@
 🗂 Chatbot Project (Sejong Creative Study) (2021.09~2021.12) - [Organization](https://github.com/2021-2-Creative-Study) 
 
 🗂 Text Mining Project (Research Assistance Project) (2021.09~2021.12) - [Repo](https://github.com/MartinusChoi/Text-Mining-Project)
+
+🗂 SK Networks Family AI Camp 1st Term Project (전국 자동차 등록 현황 및 기업 FAQ 조회 시스템) (2024.09.05~2024.09.06) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)
+
+🗂 SK Networks Family AI Camp 2nd Term Project (고객 이탈 분석 및 예측) (2024.10.16~2024.10.17) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)
+
+🗂 SK Networks Family AI Camp 3rd Term Project (LLM 을 연동한 내 외부 문서 기반 질의 응답 시스템) (2024.11.26~2024.11.28) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2Team)
    
    <h3> Awards </h3>
    
