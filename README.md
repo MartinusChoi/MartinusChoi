@@ -37,9 +37,9 @@
     
   <h2> 👀 I’m interested in 👀 </h2>
 
+  **LLM & Natural Language Processing**
+  
   **Machine Learning**
-
-  **Natural Language Processing**
 
   **Machine Vision**
 
@@ -53,36 +53,54 @@
  
 🏷 Sejong Kaggle Challengers (2021.09~2021.12) - [Repo](https://github.com/MartinusChoi/Kaggle-NoteBook-Study) | [Sejong Kaggle Chellengers](https://github.com/Sejong-Kaggle-Challengers/kagglestudy)
 
-🏷 Rearch Assistance of Labtary in Department of English Linguistics and Literature (2021.09~2021.12)
+🏷 Rearch Assistance of Labtary in Department of English Linguistics and Literature (2021.09~2021.12) - [Repo](https://github.com/MartinusChoi/Text-Mining-Project)
+
+<br>
 
   <h3> 📌 SK Networks Family AI Camp </h3>
   
 🏷 SK Networks Family AI Camp (2024.08~2025.02) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP)
 
+<br>
 
    <h3> 📌 Project </h3>
 
-🗂 AI Exam Supervisor Project (11th Sejong Creative Design Competition) (2021.03~2021.06) - [Organization](https://github.com/capstone-pcy) 
-    
-🗂 Chatbot Project (Sejong Creative Study) (2021.09~2021.12) - [Organization](https://github.com/2021-2-Creative-Study) 
+   <h4> 📎 LLM & Natural Language Processing </h4>
 
-🗂 Text Mining Project (Research Assistance Project) (2021.09~2021.12) - [Repo](https://github.com/MartinusChoi/Text-Mining-Project)
-
-🗂 SK Networks Family AI Camp 1st Term Project (전국 자동차 등록 현황 및 기업 FAQ 조회 시스템) (2024.09.05~2024.09.06) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)
-
-🗂 SK Networks Family AI Camp 2nd Term Project (고객 이탈 분석 및 예측) (2024.10.16~2024.10.17) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)
-
-🗂 SK Networks Family AI Camp 3rd Term Project (LLM 활용 외부 문서 기반 질의 응답 시스템) (2024.11.26~2024.11.28) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2Team)
+🗂 SK Networks Family AI Camp Final Project (Google Docs Chrome Extestion & LLM Application 개발) (2024.12.20~2025.02.19) - [Team](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-Final-3Team) | [model](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/tree/main/model)
 
 🗂 SK Networks Family AI Camp 4th Term Project (LLM 활용 질의 응답 시스템 - Django 활용 자체 서버 구축) (2024.12.18~2024.12.19) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2Team)
 
-🗂 SK Networks Family AI Camp Final Project (Google Docs Chrome Extestion & LLM Application 개발) (2024.12.20~2025.02.19) - [Team](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-Final-3Team) | [model](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/tree/main/model)
-   
+🗂 SK Networks Family AI Camp 3rd Term Project (LLM 활용 외부 문서 기반 질의 응답 시스템) (2024.11.26~2024.11.28) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2Team)
+
+🗂 Text Mining Project (Research Assistance Project) (2021.09~2021.12) - [Repo](https://github.com/MartinusChoi/Text-Mining-Project)
+
+🗂 Chatbot Project (Sejong Creative Study) (2021.09~2021.12) - [Organization](https://github.com/2021-2-Creative-Study) 
+
+
+   <h4> 📎 Machine Learning </h4>
+
+🗂 Dacon 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 (2024.09.20 ~ 2024.10.21) - [Dacon 코드 공유](https://dacon.io/competitions/official/236355/codeshare/12074)
+
+🗂 SK Networks Family AI Camp 2nd Term Project (고객 이탈 분석 및 예측) (2024.10.16~2024.10.17) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)
+
+   <h4> 📎 Computer Vison </h4>
+
+🗂 AI Exam Supervisor Project (11th Sejong Creative Design Competition) (2021.03~2021.06) - [Organization](https://github.com/capstone-pcy) 
+
+   <h4> 📎 Develop </h4>
+
+🗂 SK Networks Family AI Camp 1st Term Project (전국 자동차 등록 현황 및 기업 FAQ 조회 시스템) (2024.09.05~2024.09.06) - [Repo](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)
+
+   <br>
+
    <h3> 📌 Awards </h3>
    
 🏆 7th Sejong SW-AI-Competition (AI Challenge) **Bronze Prise** (2020.12)
     
 🏆 11th Sejong Creative Design Competition **participation prize** (2021.06)
+
+🏆 Dacon 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 **상위 5%** (2024.10) - [Competiton](https://dacon.io/competitions/official/236355/overview/description)
 
     
   <h2>📫 How to reach me 📫 </h2>
