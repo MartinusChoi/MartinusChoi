@@ -51,61 +51,61 @@
 
 - 📌 **[LLM 문서 작성 어시스턴트 (Chrome Extension)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-Final-3Team)**
     - 🎯 Goolge Docs 상의 문서 작업 혁신을 위한 LLM Application 개발
-    - 📅 2024.12.20 ~ 2025.02.19
+    - 📅 2024.12.20 ~ 2025.02.19 (2개월)
     - 🗒️ [Document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
     - 🔗 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://alluring-cerise-57f.notion.site/FinPilot-Home-1655128db47f80cabc52e0568a116d94)
 
 - 📌 **[LLM 웹 어플리케이션 제작 및 배포](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2Team)**
     - 🎯 응급처치 대응 매뉴얼 조회 챗봇 시스템, 인근 병원 조회 서비스 개발
         - Django 서버 구축, AWS 배포
-    - 📅 2024.12.18 ~ 2024.12.19
+    - 📅 2024.12.18 ~ 2024.12.19 (2일)
     - 🗒️ [Document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2TEAM/blob/main/SKN05-4th-2Team/SKN05-4th-2Team-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
     - 🔗 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN-Term-Project-4-1601ac6c275c80dd9710cc16caecd8d1)
 
 - 📌 **[LLM 웹 어플리케이션 제작](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2Team)**
     - 🎯 응급처치 대응 매뉴얼 조회 챗봇 시스템, 인근 병원 조회 서비스 개발
         - Streamlit 활용 웹 어플리케이션 개발
-    - 📅 2024.11.26 ~ 2024.11.27
+    - 📅 2024.11.26 ~ 2024.11.27 (2일)
     - 🗒️ [Document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2TEAM/blob/main/SKN05-3rd-2Team%20document.pdf)
     - 🔗 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN5-Term-Project-3-1521ac6c275c80e9af84f6d1d8c52e1e)
 
 ### 🔹 AI & Machine Learning  
 - 📌 **[Dacon 2024 생명연구자원 AI활용 경진대회](https://dacon.io/competitions/official/236355/overview/description)** (Top 5%)
     - 🎯 암환자 유전체 데이터의 변이 정보를 활용한 암종 분류 AI 모델 개발
-    - 📅 2024.09.09 ~ 2024.10.21
+    - 📅 2024.09.09 ~ 2024.10.21 (1.5개월)
     - 🔗 [Code](https://dacon.io/competitions/official/236355/codeshare/12074)
 - 📌 **[고객 이탈 분석 및 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)** 
     - 🎯 통신사 이탈 고객 분석, 고객 이탈 여부 예측 모델 구현
         - Kaggle cell2cell 데이터셋 활용
-    - 📅 2024.10.16 ~ 2024.10.17
+    - 📅 2024.10.16 ~ 2024.10.17 (2일)
     - 🗒️ [Document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM/blob/main/%EA%B0%80%EC%9E%85%20%EA%B3%A0%EA%B0%9D%20%EC%9D%B4%ED%83%88%20%EC%98%88%EC%B8%A1%20%EB%B3%B4%EA%B3%A0%EC%84%9C.1%EC%A1%B0.hwp)
 - 📌 **[Kamp Competition](https://github.com/MartinusChoi/Kamp-Competition-2024)**
     - 🎯 제조 공정 데이터 분석 및 불량률 예측 모델 개발
         - Kamp 플랫폼 제조 공정 데이터 경진대회
-    - 📅 2021.10.27 ~ 2021.11.24
+    - 📅 2021.10.27 ~ 2021.11.24 (1개월)
     - 🗒️ [Document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM/blob/main/%EA%B0%80%EC%9E%85%20%EA%B3%A0%EA%B0%9D%20%EC%9D%B4%ED%83%88%20%EC%98%88%EC%B8%A1%20%EB%B3%B4%EA%B3%A0%EC%84%9C.1%EC%A1%B0.hwp)
 
 ### 🔹 Computer Vision  
 - 📌 **[AI Exam Supervisor Project](https://github.com/capstone-pcy)** (Sejong Creative Design Competition)
     - 🎯 Computer Vision 기술을 활용한 비대면 시험 감독 플랫폼 개발
-    - 📅 2021.03.01 ~ 2021.06.11
+    - 📅 2021.03.01 ~ 2021.06.11 (3개월)
 - 📌 **[ResNet Implement & Test Optimizers Project](https://github.com/MartinusChoi/Object-Detection-with-ResNet-Pytorch-2021)**
     - 🎯 ImageNet으로 사전학습된 ResNet 모델 구현, Optimizer 성능 비교
         - `Pytorch-Lightning` 프레임워크 활용
         - `Adam` / `Adagrad` Optimizer 성능 비교
-    - 📅 2021.03.01 ~ 2021.05.03
+    - 📅 2021.03.01 ~ 2021.05.03 (2개월)
 
 ### 🔹 Data Analysis
 - 📌 **[Research Assistant (Text Mining Project)](https://github.com/MartinusChoi/Text-Mining-Project)**
     - 🎯 동일 시대/주제 영문 기사와 한글 기사에 대한 Topic Modeling
         - 세종대학교 영문학과 연구 지원
         - NLTK, Konlpy 활용
-    - 📅 2021.09.01 ~ 2021.12.06
+    - 📅 2021.09.01 ~ 2021.12.06 (3개월)
 
 ### 🔹 Development Project
 - 📌 **[자동차 등록 현황 및 기업 FAQ 조회 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)** (FastAPI, SQLAlchemy)
     - 🎯 전국 자동차 등록 현황과 기업 FAQ 조회 및 시각화 웹 어플리케이션 개발
-    - 📅 2024.09.05 ~ 2024.09.06
+    - 📅 2024.09.05 ~ 2024.09.06 (2일)
     - 🔗 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN5-Term-Project-1-19a1ac6c275c80c987d2e27f4c4382ce)
 
 ---
@@ -119,7 +119,7 @@
 
 ## 📬 Contact Me  
 📧 **Email**: [martinus.choi@gmail.com](mailto:martinus.choi@gmail.com)  
-💼 **LinkedIn**: [Coming Soon]  
+💼 **LinkedIn**: [Linkedin](www.linkedin.com/in/영민-최-95967b347)  
 🌐 **GitHub**: [MartinusChoi](https://github.com/MartinusChoi)   
 💻 **Blog**: [DevHub](https://velog.io/@martinus99/posts)  
 
