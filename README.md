@@ -41,7 +41,7 @@
 
 ## 📚 Education  
 🎓 **Sejong University**  
-📌 Department of Intelligence Mechatronics Engineering  
+📌 Department of Intelligence Mechatronics Engineering (지능기전공학과, 현 AI로봇학과)  
 
 ---
 
