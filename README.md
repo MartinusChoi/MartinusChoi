@@ -111,9 +111,9 @@
 ---
 
 ## 🏆 Awards & Achievements  
-🏅 **7th Sejong SW-AI Competition (Bronze Prize)**  
-🏅 **11th Sejong Creative Design Competition (Participation Prize)**  
-🏅 **Dacon 2024 생명연구자원 AI활용 경진대회 (Top 5%)**  
+🏅 **2020 7th Sejong SW-AI Competition (Bronze Prize)**  
+🏅 **2021 11th Sejong Creative Design Competition (Participation Prize)**  
+🏅 **2024 Dacon 2024 생명연구자원 AI활용 경진대회 (Top 5%)**  
 
 ---
 
