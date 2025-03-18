@@ -54,6 +54,7 @@
     - 📅 2024.12.20 ~ 2025.02.19 (2개월)
     - 🗒️ [Document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
     - 🔗 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://alluring-cerise-57f.notion.site/FinPilot-Home-1655128db47f80cabc52e0568a116d94)
+    - 🔗 [Youtube](https://www.youtube.com/watch?v=QYsDuSCmkFs)
 
 - 📌 **[LLM 웹 어플리케이션 제작 및 배포](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2Team)**
     - 🎯 응급처치 대응 매뉴얼 조회 챗봇 시스템, 인근 병원 조회 서비스 개발
