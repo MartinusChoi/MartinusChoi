@@ -63,7 +63,7 @@
     - 🗒️ [Document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2TEAM/blob/main/SKN05-4th-2Team/SKN05-4th-2Team-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
     - 🔗 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN-Term-Project-4-1601ac6c275c80dd9710cc16caecd8d1)
 
-- 📌 **[LLM 웹 어플리케이션 제작](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2Team)**
+- 📌 **[LLM 웹 어플리케이션 제작](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3rd-2Team)**
     - 🎯 응급처치 대응 매뉴얼 조회 챗봇 시스템, 인근 병원 조회 서비스 개발
         - Streamlit 활용 웹 어플리케이션 개발
     - 📅 2024.11.26 ~ 2024.11.27 (2일)
