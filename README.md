@@ -120,7 +120,7 @@
 
 ## 📬 Contact Me  
 📧 **Email**: [martinus.choi@gmail.com](mailto:martinus.choi@gmail.com)  
-💼 **LinkedIn**: [Linkedin](www.linkedin.com/in/영민-최-95967b347)  
+💼 **LinkedIn**: [Come Soon]()  
 🌐 **GitHub**: [MartinusChoi](https://github.com/MartinusChoi)   
 💻 **Blog**: [DevHub](https://velog.io/@martinus99/posts)  
 
