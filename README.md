@@ -104,7 +104,7 @@
     - 📅 2021.09.01 ~ 2021.12.06 (3개월)
 
 ### 🔹 Development Project
-- 📌 **[자동차 등록 현황 및 기업 FAQ 조회 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)** (FastAPI, SQLAlchemy)
+- 📌 **[자동차 등록 현황 및 기업 FAQ 조회 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)**
     - 🎯 전국 자동차 등록 현황과 기업 FAQ 조회 및 시각화 웹 어플리케이션 개발
     - 📅 2024.09.05 ~ 2024.09.06 (2일)
     - 🔗 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN5-Term-Project-1-19a1ac6c275c80c987d2e27f4c4382ce)
