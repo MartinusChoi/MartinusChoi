@@ -47,7 +47,7 @@
 
 ## 🛠 Experience & Projects
 
-### 🔹 LLM-Powered Development
+### 🔹 LLM-Powered Developments
 
 - 📌 **[LLM 문서 작성 어시스턴트 (Chrome Extension)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-Final-3Team)**
     - 🎯 Goolge Docs 상의 문서 작업 혁신을 위한 LLM Application 개발
@@ -103,7 +103,7 @@
         - NLTK, Konlpy 활용
     - 📅 2021.09.01 ~ 2021.12.06 (3개월)
 
-### 🔹 Development Project
+### 🔹 Development Projects
 - 📌 **[자동차 등록 현황 및 기업 FAQ 조회 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)**
     - 🎯 전국 자동차 등록 현황과 기업 FAQ 조회 및 시각화 웹 어플리케이션 개발
     - 📅 2024.09.05 ~ 2024.09.06 (2일)
