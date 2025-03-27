@@ -32,7 +32,7 @@
 
 ## 👀 Interests  
 
-✅ **LLM & NLP**: LangGraph, LangChain, Hugging Face, OpenAI API, Llama   
+✅ **LLM & NLP**: LangGraph, LangChain, Hugging Face, Llama   
 ✅ **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-Learn   
 ✅ **Computer Vision**: OpenCV, YOLO, CNN, Image Processing  
 ✅ **MLOps/LLMOps & AI Deployment**: Ollama, FastAPI, Docker, Streamlit
