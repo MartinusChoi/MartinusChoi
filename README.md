@@ -3,7 +3,7 @@
 # 🚀 About Me  
 **AI Engineer | LLM & NLP | Machine Learning**  
 
-안녕하세요! 저는**LLM 및 자연어 처리(NLP), 머신러닝(ML)** 에 관심이 많은 AI 엔지니어입니다.  
+안녕하세요! 저는**LLM 및 자연어 처리(NLP), 머신러닝(ML)** 을 전공한 AI 엔지니어입니다.  
 데이터를 기반으로 의미 있는 가치를 창출하는 것을 목표로, 다양한 AI 어플리케이션을 개발하고 최적화하는 데 집중하고 있습니다.  
 특히, **LangGraph, Hugging Face, PyTorch** 등을 활용한 **LLM 어플리케이션 개발 및 최적화**에 많은 관심을 가지고 연구하고 있습니다.  
 
